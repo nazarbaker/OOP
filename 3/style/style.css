@@ -1,0 +1,25 @@
+.error {
+      color: red;
+    }
+.lb{
+	display: inline-block;
+	width:100px;
+}
+fieldset{
+	width:500px;
+}
+input[type="text"],input[type="date"],input[type="email"]{
+	width:220px;
+}
+
+
+
+
+table {
+  padding: 5px;
+  background: #eee;
+  width: 600px;
+}
+table th {
+  text-align: left;
+}
