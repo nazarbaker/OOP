@@ -1,25 +1,26 @@
 .error {
-      color: red;
-    }
-.lb{
-	display: inline-block;
-	width:100px;
+    color: red;
 }
-fieldset{
-	width:500px;
+.lb {
+    display: inline-block;
+    width: 100px;
 }
-input[type="text"],input[type="date"],input[type="email"]{
-	width:220px;
+fieldset {
+    width: 500px;
 }
-
-
-
-
+input[type="text"],
+input[type="date"],
+input[type="email"] {
+    width: 220px;
+}
 table {
-  padding: 5px;
-  background: #eee;
-  width: 600px;
+    padding: 5px;
+    background: #eee;
+    width: 600px;
 }
 table th {
-  text-align: left;
+    text-align: left;
+}
+.notvisible {
+    visibility: hidden;
 }
